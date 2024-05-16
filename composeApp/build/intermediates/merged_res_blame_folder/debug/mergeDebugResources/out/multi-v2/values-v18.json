@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.utfpr.multiplataformproject.composeApp-mergeDebugResources-62:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mauro\\.gradle\\caches\\transforms-4\\710fe4515b28eb4bca206a2f6d4baffb\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Mauro\\.gradle\\caches\\transforms-4\\afe6e0941c473aed7146c832bfa0926e\\transformed\\core-1.5.0\\res\\values-v18\\values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,596",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "595,1009"
+                    },
+                    "to": {
+                        "startLines": "3,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,524",
+                        "endLines": "10,18",
+                        "endColumns": "8,8",
+                        "endOffsets": "519,937"
+                    }
+                }
+            ]
+        }
+    ]
+}
